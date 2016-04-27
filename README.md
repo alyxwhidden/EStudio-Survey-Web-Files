@@ -1,6 +1,7 @@
 # EStudio-Survey-Web-Files
 
 Features of the survey site:
+
 -Site requires login at https://www.cs.uky.edu/~anwh223/estudio/Login.php
 -Login brings you to the control panel where you can manage/create surveys and retrieve their results and manage/invite new users
 -You may reset you password by following the link on the login page and entering your username email address
